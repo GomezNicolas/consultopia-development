@@ -1,3 +1,4 @@
+//Raw code, still has some issues here and there.
 const airtableApiKey = 'keyaq8qvfVvDrw04b'
 const airtableBaseId = 'app8WfaW9NyKwlL1M'
 const airtableTableName = encodeURIComponent('Table 1')
